@@ -1,4 +1,0 @@
-interface:
-  display_name: "Codex Reasoning Fix"
-  short_description: "Diagnose and patch Codex gpt-5.5 reasoning"
-  default_prompt: "Use $codex-reasoning-fix-skill to test and fix a local Codex gpt-5.5 shallow reasoning issue."
